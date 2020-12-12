@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there :)     
 
-<!--
-**ninelore/ninelore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ingo
 
-Here are some ideas to get you started:
+For business inquiries pls mail: ninelore@protonmail.com
+For everything else: Discord ninelore#9823
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For now you will only find minor QoL things on my profile, but maybe that'll change in the future :)
+
+### A few things that could describe me
+* Linux Enthuasiast
+* Privacy minded
+* Idealist
+* Sometimes a Perfectionist
+* Lazy (in a positive way)
+* Gamer
+* beginner Guitarist
+* reads random Wikipedia articles for no reason when bored
