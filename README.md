@@ -1,11 +1,24 @@
-# Hi there :)     
+# Hi there :)
 
 I'm Ingo
 
-For business inquiries pls mail: ninelore@protonmail.com     
-For everything else: Discord ninelore#9823      
-You'll find my gpg key in the ninelore repo
+## Non-exhaustive list of languages
 
-<a href="https://github-readme-stats.vercel.app/api?username=ninelore&show_icons=true&theme=aura&count_private=true&hide=stars">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ninelore&show_icons=true&theme=aura&count_private=true&hide=stars" />
-</a>
+- C/C++
+- C#
+- HTML & CSS
+- Java
+- Rust
+- SQL (MySQL, Postgres)
+- Typescript
+
+## Other skills
+
+- Bash
+- Docker (basic)
+- Git
+- Powershell
+
+📧 **ninelore@protonmail.com**
+
+Discord: **ninelore**
