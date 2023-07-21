@@ -15,6 +15,7 @@ I'm Ingo
 
 ## Other skills
 
+
 - Bash
 - Docker (basic)
 - Git
