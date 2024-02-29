@@ -5,7 +5,7 @@
 
 🐘 **[@9lore@donotsta.re](https://donotsta.re/9lore)**  
 📧 **[ninelore@protonmail.com](mailto:ninelore@prptonmail.com)**  
-🌍 **[9lo.re](hhtps://9lo.re)**  
+🌍 **[9lo.re](https://9lo.re)**  
 
 Discord: **ninelore**
 
