@@ -1,9 +1,10 @@
-# Hi there :)
+# Hi there
 
-I code stuff
+➔ Jr. software and database enigneer
+➔ C | C++ | Rust | Java | JavaScript | Typescript
 
-
-📧 **ninelore@protonmail.com**
+📧 **[ninelore@protonmail.com](mailto:ninelore@prptonmail.com)**
+🌍 **[9lo.re](hhtps://9lo.re)**
 
 Discord: **ninelore**
 
