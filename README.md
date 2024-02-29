@@ -3,7 +3,7 @@
 ➔ Junior software and database enigneer  
 ➔ C | C++ | Rust | Java | JavaScript | TypeScript  
 
-🐘 **[@9ore@donotsta.re](https://donotsta.re/9lore)**  
+🐘 **[@9lore@donotsta.re](https://donotsta.re/9lore)**  
 📧 **[ninelore@protonmail.com](mailto:ninelore@prptonmail.com)**  
 🌍 **[9lo.re](hhtps://9lo.re)**  
 
