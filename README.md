@@ -1,6 +1,6 @@
 # Hi there
 
-➔ Junior software and database enigneer  
+➔ Junior software and database engineer  
 ➔ C | C++ | Rust | Java | JavaScript | TypeScript | Nix
 
 🐘 **[@9lore@donotsta.re](https://donotsta.re/9lore)**  
