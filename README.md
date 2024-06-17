@@ -1,6 +1,7 @@
 # Hi there
 
-➔ Junior software and database engineer  
+➔ Junior backend / database developer and engineer
+➔ Learning firmware developement on the side
 ➔ C | C++ | Rust | Java | JavaScript | TypeScript | Nix
 
 🐘 **[@9lore@donotsta.re](https://donotsta.re/9lore)**  
