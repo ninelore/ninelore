@@ -1,13 +1,14 @@
 # Hi there
 
-➔ Junior backend / database developer and engineer  
-➔ Learning firmware developement on the side  
-➔ C | C++ | Rust | Java | JavaScript | TypeScript | Nix
+➔ JEE backend and database engineer  
+➔ Learning firmware and kernel developement on the side  
+➔ Primary Languages: C/C++ | Rust | Java | SQL | Nix
 
 🐘 **[@9lore@donotsta.re](https://donotsta.re/9lore)**  
 📧 **[9l@9lo.re](mailto:9l@9lo.re)**  
 🌍 **[9lo.re](https://9lo.re)**
 
+Matrix: **@9lore:tchncs.de**  
 Discord: **ninelore**  
 Discord Server: **[Invite Link](https://discord.gg/VSeCEVCTk6)**
 
