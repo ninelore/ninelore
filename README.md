@@ -9,7 +9,6 @@
 🌍 **[9lo.re](https://9lo.re)**
 
 Matrix: **@9lore:tchncs.de**  
-Discord Server: **[Invite Link](https://discord.gg/VSeCEVCTk6)**
 
 ```rs
 fn main() {
