@@ -1,6 +1,6 @@
 # Hi there
 
-➔ JEE backend and database engineer  
+➔ Current day job: Java backend and data engineering  
 ➔ Learning firmware and kernel developement on the side  
 ➔ Primary Languages: C/C++ | Rust | Java | SQL | Nix
 
