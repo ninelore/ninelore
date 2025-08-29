@@ -1,8 +1,8 @@
 # Hi there
 
-- Formerly a Java and SQL developer
-➔ Learning firmware and kernel developement 
-➔ Languages: Bash | C | C++ | Rust | Nix | Nushell
+- Formerly a Java and SQL developer  
+➔ Learning firmware and kernel developement  
+➔ Languages: Bash | C | C++ | Rust | Nix | Nushell  
 
 🐘 **[@9lore@donotsta.re](https://donotsta.re/9lore)**  
 📧 **[9l@9lo.re](mailto:9l@9lo.re) ([PGP](https://github.com/ninelore.gpg))**  
