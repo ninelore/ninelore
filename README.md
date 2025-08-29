@@ -1,6 +1,6 @@
 # Hi there
 
-- Formerly a Java and SQL developer  
+➔ Formerly a Java and SQL developer  
 ➔ Learning firmware and kernel developement  
 ➔ Languages: Bash | C | C++ | Rust | Nix | Nushell  
 
