@@ -1,8 +1,8 @@
 # Hi there
 
-➔ Current day job: Java backend and data engineering  
-➔ Learning firmware and kernel developement on the side  
-➔ Primary Languages: C/C++ | Rust | Java | SQL | Nix
+- Formerly a Java and SQL developer
+➔ Learning firmware and kernel developement 
+➔ Languages: Bash | C | C++ | Rust | Nix | Nushell
 
 🐘 **[@9lore@donotsta.re](https://donotsta.re/9lore)**  
 📧 **[9l@9lo.re](mailto:9l@9lo.re) ([PGP](https://github.com/ninelore.gpg))**  
