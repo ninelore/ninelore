@@ -1,5 +1,7 @@
 # Hi there
 
+## IMPORTANT: I have/will move(d) most of my stuff to [Codeberg](https://codeberg.org/9lore)!
+
 ➔ Formerly a Java and SQL developer  
 ➔ Learning firmware and kernel developement  
 ➔ Languages: Bash | C | C++ | Rust | Nix | Nushell  
