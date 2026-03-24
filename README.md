@@ -6,7 +6,7 @@
 
 ![Gen-AI? Nein danke.](https://f.sakamoto.pl/genai-neindanke_v2.png)   <sup>*(CC0 by [dmi](https://sdomi.pl/), 2024)*</sup>
 
-# Other Git Forges where I am active
+# Git forges where I am most active
 
 I am mostly active on:
 
